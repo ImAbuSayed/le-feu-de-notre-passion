@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/le-feu-de-notre-passion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Le Feu De Notre Passion](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-feu-de-notre-passion/) |
+| **Get License** | [Commercial Licensing for Le Feu De Notre Passion](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-feu-de-notre-passion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2a8c46f22409ed7e150170f5df1e75731caedd2e9de3c456613e3931c3cfb010` |
 | **Timestamp** | June 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
