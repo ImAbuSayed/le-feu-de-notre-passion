@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/le-feu-de-notre-passion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Le Feu De Notre Passion](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-feu-de-notre-passion/) |
+| **Get License** | [Get License For Le Feu De Notre Passion](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-feu-de-notre-passion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ton regard dans la nuit, baby, we on the low
+> On s'évade dans ma gov', laisse parler les jaloux
+> Le feu de notre passion brille, just turn off your phone
+> Ce soir c'est notre movie, c'est ton vibe que je follow
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
